@@ -1,0 +1,6 @@
+Generates a CSV file suitable for openheatmap.com that reproduces
+the GDP variation from 2005 to 2010.
+
+The dataset for 2010 can be downloaded here:
+http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/download.aspx
+You need the "by countries" dataset.
